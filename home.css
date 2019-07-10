@@ -1,0 +1,17 @@
+img {
+  width;
+}
+
+.red_font {
+  color: red;
+  font-family: 'Raleway', sans-serif;
+}
+
+.blue_font {
+  color: blue;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+body {
+  background-color: #ffabab;
+}
